@@ -15,21 +15,6 @@
 
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [Week 1 Objectives](#-week-1-objectives)
-- [Tasks Completed](#-tasks-completed)
-- [Dataset Information](#-dataset-information)
-- [Problem Statement](#-problem-statement)
-- [Tools & Technologies](#-tools--technologies)
-- [Setup & Structure](#-setup--structure)
-- [Learning Outcomes](#-learning-outcomes)
-- [Next Week Plan](#-next-week-plan)
-- [References](#-references)
-
----
 
 ## 🎯 Week 1 Objectives
 
