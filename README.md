@@ -9,9 +9,7 @@
 **Foundation week for building an AI-powered EV cost prediction system**
 
 **Student:** Mitrasingh Bhandari  
-**Institution:** VES Institute of Technology  
 **Duration:** Week 1 of 4  
-**Date:** January 2025
 
 </div>
 
