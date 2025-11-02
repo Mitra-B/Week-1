@@ -54,6 +54,6 @@
 
 #### Dataset Selected
 **Source:** Kaggle - Electric Vehicle Population Data  
-**Link:** [Electric Vehicle Dataset](https://www.kaggle.com/datasets/bharatnatrayn/electric-vehicle-sales-data)
+**Link:** [Electric Vehicle Dataset]([https://www.kaggle.com/datasets/bharatnatrayn/electric-vehicle-sales-data](https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025))
 
 **Dataset Statistics:**
