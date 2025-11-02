@@ -104,7 +104,4 @@ This stage lays the foundation for data-driven chatbot interactions to be develo
 | Data Cleaning | Pandas |
 | Version Control | Git + GitHub |
 
----
-
-## 🏗️ Setup & Structure
 
